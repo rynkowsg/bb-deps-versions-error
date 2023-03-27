@@ -1,0 +1,7 @@
+{:paths   ["src"]
+ :deps {com.fulcrologic/fulcro {:git/url "https://github.com/fulcrologic/fulcro.git"
+                                :sha "67c01030e47671459745cfa769903a3767e05e72"}
+        com.fulcrologic/fulcro-rad {:git/url "https://github.com/fulcrologic/fulcro-rad.git"
+                                    :sha "a71cfa9420e49a07461e0f3726f79d7d234d126a"}
+        com.fulcrologic/fulcro-i18n {:git/url "https://github.com/fulcrologic/fulcro-i18n.git"
+                                     :sha "72f8cbba597de574480ae21322180f0590213e06"}}}

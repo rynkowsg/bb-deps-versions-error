@@ -1,0 +1,6 @@
+{:deps {this/this {:local/root "."}}
+
+ :tasks
+ {work {:requires ([company.locale :refer [locales]])
+        :doc "Some task that uses def from the repo"
+        :task (println "locales:" locales)}}}
