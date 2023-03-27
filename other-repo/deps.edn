@@ -1,0 +1,2 @@
+{:paths   ["src"]
+ :deps {company/repo {:local/root ".."}}}
